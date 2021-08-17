@@ -8,4 +8,6 @@
 
 ### Informações para instalação
 
--`yarn add` [Instala todos os repositório] -`yarn start` [Executa o servidor]
+-`yarn add` [Instala todos os repositório]
+
+-`yarn start` [Executa o servidor]
